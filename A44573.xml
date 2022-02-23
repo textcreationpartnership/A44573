@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jesuit's manner of consecrating both the persons and weapons imploy's for the murdering kings and princes by them accounted hereticks being matter of fact / translated out of Hospinian's History of the Jesuits, pag. 366, printed at Zurich in the year 1670.</title>
+            <title>Historia Jesuitica. English. Selections</title>
+            <author>Hospinian, Rudolf, 1547-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44573</idno>
+            <idno type="STC">Wing H2888</idno>
+            <idno type="STC">ESTC R8362</idno>
+            <idno type="EEBO-CITATION">13530831</idno>
+            <idno type="OCLC">ocm 13530831</idno>
+            <idno type="VID">99990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 790:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jesuit's manner of consecrating both the persons and weapons imploy's for the murdering kings and princes by them accounted hereticks being matter of fact / translated out of Hospinian's History of the Jesuits, pag. 366, printed at Zurich in the year 1670.</title>
+                  <title>Historia Jesuitica. English. Selections</title>
+                  <author>Hospinian, Rudolf, 1547-1626.</author>
+               </titleStmt>
+               <extent>[4], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  History.</term>
+               <term>Regicides --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:99990:1"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <date>
+                  <hi>Novemb.</hi> 16. 1678.</date>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:99990:1" rendition="simple:additions"/>
+            <p>THE JESUITS MANNER of CONSECRATING Both the PERSONS and WEAPONS Imploy'd for the Murdering KINGS and PRINCES By them accounted HERETICKS, Being Matter of Fact.</p>
+            <p>Tranſlated out of <hi>Hoſpinian</hi>'s Hiſtory of the <hi>Je<g ref="char:EOLhyphen"/>ſuits,</hi> pag. 366. Printed at <hi>Zurich</hi> in the Year 1672.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. S.</hi> in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:99990:2"/>
+            <pb n="1" facs="tcp:99990:2"/>
+            <head>This Account is extant in a Proceſs Printed at <hi>Delph,</hi> by <hi>John Andrea</hi> Book-ſeller, and quoted by <hi>Hoſpinian</hi> in the following words.</head>
+            <p>THE <hi>Jeſuites</hi> have ready prepar'd (for having ſo much mony at command, they can take Leaſes where they pleaſe) ſeveral <hi>Manſions of Reſt and Beatitude,</hi> ſo order'd by vertue of their Tranſcending Charms, ready hung, fitted and furniſh'd for the reception of thoſe <hi>Ajaxe</hi>'s, who being more ſtout then ſubtle, are by them drawn in and in<g ref="char:EOLhyphen"/>veigled to the barbarous execution of what they more barbarouſly meditate and conſult. Thoſe deluded Vil<g ref="char:EOLhyphen"/>lains, and Religious <hi>Braves,</hi> they bleſs, they ſanctifie, and canonize at length for Saints, aſſuming to them<g ref="char:EOLhyphen"/>ſelves a large Canton in Heaven for their reward.</p>
+            <p>The perſon whoſe ſilly reaſon the <hi>Jeſuites</hi> have once overcome with their more potent Arguments, is imme<g ref="char:EOLhyphen"/>diately conducted into their <hi>Sanctum Sanctorum,</hi> de<g ref="char:EOLhyphen"/>ſign'd
+<pb n="2" facs="tcp:99990:3"/>for prayer and meditation. There the <hi>Dagger</hi> is produc'd, choicely wrapt, up in a linnen ſafeguard, en<g ref="char:EOLhyphen"/>clos'd in an Ivory Sheath, engrav'd with ſeveral aenig<g ref="char:EOLhyphen"/>matical Characters, and accompanied with an <hi>Agnus Dei.</hi> Certainly a moſt monſtrous copulation, ſo unad<g ref="char:EOLhyphen"/>viſedly to intermix the height of murdrous Villany, and the moſt ſacred emblem of Meekneſs together.</p>
+            <p>This <hi>Dagger</hi> thus unſheath'd, is hypocritically be dew'd with holy water, and the handle as ſoon adorn'd with a certain number of Coral Beads, thereby aſcer<g ref="char:EOLhyphen"/>taining the credulous Fool, that as many effectual ſtabs as he gives the aſſaſſinated Prince, ſo many ſouls he ſhould redeem out of Purgatory upon his own account. Then they deliver the <hi>Dagger</hi> into the <hi>Parricide</hi>'s hand, with a ſolemn recommendation in theſe words, <hi>Elected Son of God, receive the Sword of</hi> Jephta, <hi>the Sword of</hi> Sampſon, <hi>the Sword of</hi> David <hi>wherewith he ſmote off the head of</hi> Goliah, <hi>the Sword of</hi> Gideon, <hi>the Sword of</hi> Ju<g ref="char:EOLhyphen"/>dith, <hi>the Sword of the</hi> Maccahees, <hi>the Sword of Pope</hi> Ju<g ref="char:EOLhyphen"/>lius <hi>the ſecond, wherewith he freed himſelf from the proſe<g ref="char:EOLhyphen"/>cution of Princes after he had defil'd ſeveral Cities with the effuſion of <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Blood, Go and proſper, prudently couragi<g ref="char:EOLhyphen"/>ous, and the Lord ſtreng<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Arm,</hi> Which words being once pronounc'd, <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y all fall upon their knees; at what time the Head of the Society pronounces this Exorciſm; <hi>A<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pud O Cherubims, deſcend and be preſent O Seraphims, you Thrones, you Powers, you holy Angels come down, and fill this bleſſed Veſſel with eternal glory, and daily offer <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, tis but a ſmall reward, the Crown of the bleſſed Virgin</hi> Mary, <hi>and of all the holy Patriarchs and Mar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> He <hi>is <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more concerned among us, he is now of <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Celeſtial <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ernity.</hi> And thou, <hi>O God, moſt ter<g ref="char:EOLhyphen"/>rible
+<pb n="3" facs="tcp:99990:3"/>and inacceſſible, who yet haſt reveal'd to this inſtru<g ref="char:EOLhyphen"/>ment of thine, in thy dedicated place of our Prayer and Meditation, that ſuch a Prince is to be cut off as a Ty<g ref="char:EOLhyphen"/>rant and a Heretick, and his Dominions to be tranſlated to another Line, confirm and ſtrengthen, we beſeech thee this Inſtrument of thine, whom we have conſecrated and dedicated to that ſacred Office, that he may be able to accompliſh thy will. Grant him the Habergeon of thy Di<g ref="char:EOLhyphen"/>vine Omnipotency, that he may be enabled to eſcape the hands of his purſuers. Give him wings, that he may eſcape the hands of all that lye in wait for his deſtruction. Infuſe into his ſoul the beams of thy conſolation, to uphold and ſuſtain the weak fabrick of his body, that contemning all fear, he may be able to ſhew a chearful and lively countenance in the midſt of preſent torments, or prolong'd Impriſonments; and that he may ſing and rejoyce with a <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e than ordinary exultation, whatever death he un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>xorciſm being finiſh'd, the Parricide is brought <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ta<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, over which at that time hangs a picture <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng the ſtory of <hi>James Clement,</hi> a <hi>Dominican</hi> 
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with the figures of ſeveral Angels protecting and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cting him to Heaven. This Picture the Jeſuites <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Cullie, and at the ſame time, preſenting <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with a celeſtial Coroner, rehearſe theſe words. <hi>Lord, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k down, and behold this Arm of thine, the Execu<g ref="char:EOLhyphen"/>tioner of thy Juſtice. Let all thy Saints ariſe and give place to him.</hi> Which Ceremonies being ended, there are only five Jeſuites deputed to converſe with, and keep the Parricide Company. Who in their common diſcourſe make it their buſineſs upon all occaſions to fill his ears with their divine wheedles, making
+<pb n="4" facs="tcp:99990:4"/>him believe a certain celeſtial ſplendour to be ſhining in his countenance, by the beams whereof they are over-awd to throw themſelves down before him, and to kiſs his feet; appearing to them now no more a mortal, but transfigur'd into a Deity. And laſtly in a deep diſſimulation they bewail themſelves, and feign a kind of Envy at the happineſs and eternal Glo<g ref="char:EOLhyphen"/>ry which he is ſo ſuddainly to enjoy, exclaiming thus before the Credulous Manſlayer; <hi>Would to God the Lord had choſen me in thy stead, and had ſo or<g ref="char:EOLhyphen"/>dred it by this means, that being freed from the pains of Purgatory, I might go directly without let, into Paradiſe.</hi>
+            </p>
+            <p>But if the perſon whom they imagin proper to at<g ref="char:EOLhyphen"/>tempt the Parricide prove any thing ſqueamiſh, or re<g ref="char:EOLhyphen"/>luctant to their exhortations, then by nocturnal Scare<g ref="char:EOLhyphen"/>crows, and affrighting apparitions, or by the ſuborn'd appearances of the Holy Virgin, or ſome other of the Saints, even of <hi>Ignatius Loyola</hi> himſelf, or ſome of his moſt celebrated Aſſociates, they terrifie the ſoon re<g ref="char:EOLhyphen"/>triv'd misbeliever into a complyance with a ready prepar'd oath, which they inforce him to take and wherewith they animate and encourage his ſtaggering Reſolution. Thus theſe villanous and impious Doctors in the Art of Murder and Parricide ſometimes by the terrours of puniſhment, ſometimes by the allurements of merit enſlame the courages of the unwary, and ha<g ref="char:EOLhyphen"/>ving entangl'd them in the noozes of ſacrilegious and bloody attempts, precipitate both ſoul and body into eternal condemnation.</p>
+            <p>Story mentions a ſort of People formerly notorious in the Eaſtern parts of the world, whom the moſt Hi<g ref="char:EOLhyphen"/>ſtorians
+<pb n="5" facs="tcp:99990:4"/>call <hi>Aſſaſſins,</hi> that is to ſay, murderers of Prin<g ref="char:EOLhyphen"/>ces and great men. Theſe being followers of the <hi>Ma<g ref="char:EOLhyphen"/>hometan</hi> Religion, inſtituted a new Sect, of which the firſt founder was <hi>Aloadim,</hi> accounted a Saint and a Prophet by thoſe of his own Gang. This Order ſoon began to flouriſh, being more remarkable then any o<g ref="char:EOLhyphen"/>ther of the <hi>Mahometan</hi> belief, for the beauty of their Colledges, and the pleaſantneſs of their Habitations. Which were confirm'd upon them with large endow<g ref="char:EOLhyphen"/>ments, for the Inſtruction of youth in the <hi>Mahometan</hi> profeſſion, among whom they had the priviledg to cull out the boldeſt reſolutions and the choiceſt Fancies.</p>
+            <p>The Principal Tenents of this ſect were theſe.</p>
+            <list>
+               <item>1. That <hi>Mahomet</hi> was the Prophet of God, the reſto<g ref="char:EOLhyphen"/>rer of loſt mankind, and the rewarder of Good and Evil.</item>
+               <item>2. That the Chief and Prince of this ſect was his Vicar upon Earth, the only interpreter of the Divine and Human law deliver'd by <hi>Mahomet.</hi>
+               </item>
+               <item>3. That it was juſt and legal to kill and murder all Princes, that were not obedient in all things to him, either by open force or private contrivance, as opportu<g ref="char:EOLhyphen"/>ty offer'd.</item>
+               <item>4. That his Diſciples were not bound or oblig'd in their allegiance to any Prince, whatever oathes they took to be true to him.</item>
+               <item>5. That Paradiſe was a Garden flowing with milk and hony, and abounding in all manner of ſenſual plea<g ref="char:EOLhyphen"/>ſures and delights.</item>
+               <item>6. That whoſoever ſhould kill any Prince, and Enemy to their law, ſhould enjoy the next place in Paradiſe, to <hi>Mahomet</hi> himſelf.</item>
+               <item>7. That it was in the power of this Vicar of <hi>Ma<g ref="char:EOLhyphen"/>homet,</hi> by a particular Grant or Pattent from <hi>Maho<g ref="char:EOLhyphen"/>met,</hi>
+                  <pb n="6" facs="tcp:99990:5"/>to diſtribute and ſhare the joys of Paradiſe, to ſuch as he ſhould think deſerving,</item>
+            </list>
+            <p>With theſe peſtilent, and abominable maxims, did they leven and corrupt the education of all the Youth that came within their Clutches, to render them the more obedient to their Principles, and to make them the more undaunted in ſuch dangerous attempts which they themſelves ſhould put them upon. The particular Diſciples of this Doctrine, being firſt ſtupi<g ref="char:EOLhyphen"/>fied with a potion of <hi>Opiate,</hi> were carried into a Garden adjoyning to the Colledge, where when they awak'd again, all ſorts of delights and pleaſures waited on them. Streams of Hony, Wine and Milk; Va<g ref="char:EOLhyphen"/>riety of Muſique, ſumptuous Garments, and coſtly proviſion to pleaſe the Palate; neither were lovely Women wanting; all which pleaſures they enjoy'd to full ſatiety. Afterwards when they had had a full enjoyment of all theſe pleaſures, they were again laid aſleep with another draught of <hi>Opiate,</hi> and carry'd back into the Colledge. When they came to them<g ref="char:EOLhyphen"/>ſelves again (to uſe the words of <hi>Paulus Venetus</hi>) and call'd to mind, what pleaſures they had for ſo ſmall a time enjoy'd, they began to be troubl'd that thoſe pleaſures were too ſhort. But being inſtructed upon what accompt they might enjoy them to Eter<g ref="char:EOLhyphen"/>nity, they began to be in love with death, and to contemn all thoughts of danger that ſhould bring them to theſe everlaſting pleaſures, of which they had had ſuch a tranſitory taſte already. Then their Doctor, who fain'd himſelf to be the Prophet of God, lay<g ref="char:EOLhyphen"/>ing hold of the opportunity; <hi>Be but prepar'd,</hi> ſaid he, <hi>in obedience to me, to ſuffer Death undaunted<g ref="char:EOLhyphen"/>ly when occaſion ſhall ſerve, and you ſhall eternally
+<pb n="7" facs="tcp:99990:5"/>enjoy thoſe pleaſures, which were here too ſhort.</hi> Up<g ref="char:EOLhyphen"/>on which, thoſe miſerable wretches, believing death to be ſo great a gain, willingly condeſcend, and ſwear to obey him in all things; whatever he ſhall en<g ref="char:EOLhyphen"/>joyn, though to the loſs of their Lives. And thus this Tyrant over Souls, animates and inſtigates theſe credulous admirers of ſenſual Pleaſure, to commit the moſt Execrable Murthers and Villanies that Revenge or Intereſt can contrive. Thus far <hi>Paulus Venetus,</hi> with whom <hi>Nicetas Choniates</hi> agrees in theſe words, They go and reſide as Friends and Subjects of thoſe Princes, whom they are deſign'd to murther, and faining private buſineſs, or the publick imployment of Envoys or Embaſſadours, in ſecret Conference diſpatch the Prince appointed for the ſlaughter; ne<g ref="char:EOLhyphen"/>ver conſidering the difficulty of the attempt, nor the ſevere puniſhment of ſuch an abominated Crime: And this they do to render themſelves formidable to all men; and that none ſhould dare to withſtand their Fury. Whereby it came to paſs, that many Regi<g ref="char:EOLhyphen"/>ons and Princes became Tributary to this Tyrant, till he was by the <hi>Tartars</hi> put to death for a falſe Prophet, and all the whole crew of Homicides quite extinguiſh'd in the Year 1262.</p>
+            <p>The ſame Education do the <hi>Jeſuites</hi> give their Scholars in all their Schooles and Colledges, infla<g ref="char:EOLhyphen"/>ming the Courages of their Diſciples to all acts of impious Violence and Villany, under the ſpecious pretence of doing God good ſervice; which being once imprinted in a mind, animated with the hopes of eter<g ref="char:EOLhyphen"/>nal happineſs, is enough to guide the raſh hand of Im<g ref="char:EOLhyphen"/>piety to the Sacred Breaſt of the greateſt Prince in the World,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
